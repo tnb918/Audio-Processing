@@ -1,4 +1,4 @@
-# audio-processing
+# Audio-Processing
 Based on Matlab, design GUI to achieve the audio file reading, display and processing
 
 Specific function modules are: 
